@@ -1,1 +1,139 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T16:10:12.808Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="DZ3L9Xo7e4q1SPpjSTWQ" version="13.10.3" type="github"><diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">7Vrfk5o6FP5rfFyH/EJ4XNdt+9KZzmxn+pxKFjNF441xxfvX3wBBwGRdbKPrlsuLchKS8H05nPMdGKGHZf5Z0vXiq0hYNoJBko/QbAThHUDhRP8Wpr0xIUwqSyp5UtlAY3ji/zJjDIx1yxO26XRUQmSKr7vGuVit2Fx1bFRKset2exZZd9Y1TZlleJrTzLb+4IlaGCsI46bhC+PpwkwdQXPHP+n8VyrFdmXmG0H0XB5V85LWY5kb3SxoInYtE3ocoQcphKr+LfMHlhXo1rBV1316pfWwbslWqs8FE4iqS15otmX1msuVqX2Nxm7BFXta03lxvtOcj9D0mWfZg8iELLsgAO/vp0TbU0kTriev21ZixVrmGZeaLy5WuonRjV7jdKOk+MWO+i/UMtNnoJhJNKPpmSDCmOjVT+1bNXf/wqRiectkbv0zE0um5F53Ma0Qx5Ox2ZlmqwIc4jEJmsPAsWttg5q8RWsHAGSM1Gy99DBbA7/+Yxh4jQ08ZDZCmw2CcW16iwESjIM2b8gHH2TIfEQO74h78wECLx4RDpgBFDgYgP0ZmHhhYPI2AyzR4dOcvolQ5Z8HZOsAiyys231fRbOY+iSWbZSCU/tUsowq/tJNAVzQmTm+Ca7X0gomyH58Ne5SD7QRWzln5tp2ZO4xHADWcIrKlClruJLVAwg9iY68uNqnIJoEH87VXKkAQu+ZCsRe2HiMSIjh38AGDLps9H0IemGjHmSYvuFIzFCExzhujqgnGyQex+3LfGRpCHgh54O6iosc0jtH8OMdcMje4UiTy8jR0yNCLwz4kfEf1AUcDID+LgAiLwz0kO7/p8ne02SESJ/hPKbJyK4JfKOS6iGYLNd1zLrexaWDaM/jq/S70H43uyM296YMCqL63AxR8LouVl7eC5mOyOw1f/PgTAiFNqARdDhT5Ngl0Isr2Zo/B/1hpRlPiwfTXIOgKUHT4ub5nGb3pmHJk6QYxUL5BCHXI8CV+5I4vG5AtzV/bj/O/loGXIXIazNgi/EcDYcBR0S/OgN+BPgHrTxCK6zGztIvIp2qOwDYRUe3Ml9XFP+IHjxkRV7S05bfR1SRrjiPb4i2IWt1l1cBT1516PNn9NhK/vt+zbTljASsBaYdMtpBhfiC1YoWMYg7xUJgQXyx7BXbUtxAeEYGdQsQkveD0NbSBsIzUqBbgDB+PwhPq9T9b+F4rkr1kAgiOxEMInJNNYptNbq/NTXqQ3UG5Bjotz+FQa5CEeyW+Cde0gZbkO5vTZBehgR3Kfl6wNs6dH9rOvQywJfvG98ReJf8DDNl8OjgH/6zFXXD3aZE6r4IlsE6L2Nb3a7/pcXvjFOdIC91F8WVHsOMq9dUDV31uhjLFZUoOGIdnA7aPli2Ss+R8zVBBBwsY+KBVTJo1er4nAlNzvjAzwcBg9afDgJg2P9FGfDCgC0xc3xjEeWCr1ccFFy2sqlPm+/JqxdezWf76PE/</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-26T16:56:19.376Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="s0dDBs994_fBArJ8Zce_" version="13.10.3" type="github">
+  <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
+    <mxGraphModel dx="305" dy="1274" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_i5GuJYThTARpsrxtbjQ-763" value="" style="edgeStyle=none;html=1;fontColor=#000000;strokeWidth=3;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="2876.08" y="1107" as="sourcePoint" />
+            <mxPoint x="2874.08" y="487" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="734" value="" style="edgeStyle=none;html=1;fontColor=#000000;strokeWidth=3;strokeColor=#000000;" parent="1" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="2550" y="1270" as="sourcePoint" />
+            <mxPoint x="3230" y="1270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="736" value="x1" style="text;spacingTop=-5;align=center;verticalAlign=middle;fontStyle=0;html=1;fontSize=18;points=[];strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2497.5" y="1596.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="737" value="학업 성취도" style="text;spacingTop=-5;align=center;verticalAlign=middle;fontStyle=0;html=1;fontSize=18;points=[];strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="3370" y="1260" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="749" value="이수 전공과목 포지셔닝 맵" style="text;spacingTop=-5;align=center;verticalAlign=middle;fontSize=30;fontStyle=1;html=1;points=[]" parent="1" vertex="1">
+          <mxGeometry x="2467.5" y="320" width="810" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="752" value="관심" style="text;spacingTop=-5;align=center;verticalAlign=middle;fontStyle=0;html=1;fontSize=18;points=[];strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2800.5" y="445" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_i5GuJYThTARpsrxtbjQ-754" value="공학경제" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;fillColor=#99CCFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3085" y="1356.5" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_i5GuJYThTARpsrxtbjQ-755" value="경영과학개론" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;fillColor=#99CCFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3085" y="905.5" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_i5GuJYThTARpsrxtbjQ-756" value="생산경영" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;fillColor=#99CCFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2961.5" y="1111" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_i5GuJYThTARpsrxtbjQ-757" value="관리경제" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;fillColor=#99CCFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3090" y="1140" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_i5GuJYThTARpsrxtbjQ-758" value="생산시스템설계" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;fillColor=#99CCFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3085" y="1060" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_i5GuJYThTARpsrxtbjQ-759" value="응용통계" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;fillColor=#99CCFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3090" y="1220" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_i5GuJYThTARpsrxtbjQ-760" value="데이터&lt;br&gt;구조론" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;fillColor=#99CCFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3077.5" y="688" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_i5GuJYThTARpsrxtbjQ-761" value="스마트&lt;br&gt;제조개론" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;fillColor=#99CCFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2961.5" y="1031" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_i5GuJYThTARpsrxtbjQ-762" value="컴퓨터&lt;br&gt;네트워크" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeColor=none;fillColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="2828.5" y="1280" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_i5GuJYThTARpsrxtbjQ-764" value="선형대수" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeColor=none;fillColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="3085" y="1556.5" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_i5GuJYThTARpsrxtbjQ-766" value="통계적&lt;br&gt;품질관리&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px ; font-weight: 400&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%EC%BB%B4%ED%93%A8%ED%84%B0%26lt%3Bbr%26gt%3B%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfontStyle%3D1%3BfontSize%3D18%3BstrokeColor%3Dnone%3BfillColor%3D%233399FF%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%222833%22%20y%3D%221190%22%20width%3D%2290%22%20height%3D%2270%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeColor=none;fillColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="2828.5" y="1550" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_i5GuJYThTARpsrxtbjQ-767" value="네트워크와&lt;br&gt;알고리즘" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeColor=none;fillColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="2951.5" y="841" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_i5GuJYThTARpsrxtbjQ-768" value="재고와&lt;br&gt;물류관리" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeColor=none;fillColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="3085" y="1446.5" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_i5GuJYThTARpsrxtbjQ-770" value="확률&lt;br&gt;모델링" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;fillColor=#99CCFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3085" y="830" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_i5GuJYThTARpsrxtbjQ-771" value="알고리즘&lt;br&gt;설계와 분석" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeColor=none;fillColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="2720" y="1130" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_i5GuJYThTARpsrxtbjQ-772" value="인공지능" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeColor=none;fillColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="2828.5" y="1370" width="92" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_i5GuJYThTARpsrxtbjQ-773" value="프로그램설계&lt;br&gt;방법론" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeColor=none;fillColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="2827.5" y="1100" width="92" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_i5GuJYThTARpsrxtbjQ-774" value="오픈소스 sw 기초" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeColor=none;fillColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="2828.5" y="1190" width="92" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_i5GuJYThTARpsrxtbjQ-776" value="데이터&lt;br&gt;마이닝" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeColor=none;fillColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="2826.5" y="1460" width="92" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_i5GuJYThTARpsrxtbjQ-782" value="산업경영공학&lt;br&gt;캡스톤디자인1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;fillColor=#99CCFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2931.5" y="758" width="125" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_i5GuJYThTARpsrxtbjQ-783" value="어드벤쳐&lt;br&gt;디자인1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;fillColor=#99CCFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3085" y="975.5" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_i5GuJYThTARpsrxtbjQ-784" value="컴퓨터&lt;br&gt;구조" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeColor=none;fillColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="2964.5" y="1186" width="92" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_i5GuJYThTARpsrxtbjQ-785" value="컴퓨터공학 &lt;br&gt;연구실 &lt;br&gt;심화실습&lt;br&gt;(pass)" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeColor=none;fillColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="3237.5" y="668" width="126" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_i5GuJYThTARpsrxtbjQ-786" value="운영체제론" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeColor=none;fillColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="2955.5" y="931" width="92" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_i5GuJYThTARpsrxtbjQ-787" value="전공진로세미나&lt;br&gt;(pass)" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeColor=none;fillColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="3231" y="1192.5" width="139" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="_i5GuJYThTARpsrxtbjQ-788" value="오토마타와&lt;br&gt;형식언어론" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeColor=none;fillColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="2810" y="1630" width="129" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="_i5GuJYThTARpsrxtbjQ-789" value="산업경영공학&lt;br&gt;캡스톤디자인2" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;fillColor=#99CCFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3060" y="608" width="125" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_i5GuJYThTARpsrxtbjQ-791" value="자료구조론" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeColor=none;fillColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="2820" y="1010" width="111.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_i5GuJYThTARpsrxtbjQ-792" value="임베디드&lt;br&gt;운영체제" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;strokeColor=none;fillColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="3077.5" y="745" width="92" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_i5GuJYThTARpsrxtbjQ-805" value="" style="whiteSpace=wrap;fillColor=#12AAB5;gradientColor=none;gradientDirection=east;strokeColor=none;html=1;fontColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="3210.0000000000005" y="450" width="35.000000000000114" height="30.000000000000227" as="geometry" />
+        </mxCell>
+        <mxCell id="_i5GuJYThTARpsrxtbjQ-806" value="" style="whiteSpace=wrap;fillColor=#F08705;gradientColor=none;gradientDirection=east;strokeColor=none;html=1;fontColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="3210" y="410" width="35.000000000000114" height="30.000000000000227" as="geometry" />
+        </mxCell>
+        <mxCell id="_i5GuJYThTARpsrxtbjQ-807" value="" style="whiteSpace=wrap;fillColor=#E85642;gradientColor=none;gradientDirection=east;strokeColor=none;html=1;fontColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="3210.0000000000005" y="370" width="35.000000000000114" height="30.000000000000114" as="geometry" />
+        </mxCell>
+        <mxCell id="_i5GuJYThTARpsrxtbjQ-808" value="Type 1" style="text;spacingTop=-5;html=1;points=[];fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="3250.0000000000005" y="375" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_i5GuJYThTARpsrxtbjQ-809" value="Type 2" style="text;spacingTop=-5;html=1;points=[];fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="3250.0000000000005" y="415" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_i5GuJYThTARpsrxtbjQ-810" value="Type 3" style="text;spacingTop=-5;html=1;points=[];fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="3250.0000000000005" y="455" width="80" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
